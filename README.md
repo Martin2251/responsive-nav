@@ -1,3 +1,3 @@
-https://app.netlify.com/sites/fervent-meninsky-b4c903/overview
+https://fervent-meninsky-b4c903.netlify.app/
 
 Basic Hamburger Nav bar menu 
